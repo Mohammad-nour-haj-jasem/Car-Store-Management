@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarstoreApi</name>
+    </assembly>
+    <members>
+        <member name="F:CarstoreApi.Controllers.CarsController._carRepository">
+            <summary>
+            controller by car 
+            return true
+            </summary>
+        </member>
+    </members>
+</doc>
